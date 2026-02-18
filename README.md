@@ -68,7 +68,7 @@ This project compared several algorithms, where XGBoost was selected as the best
 
 ## 🗺️ Output : Peta Potensi Kawasan
 <p align="center">
-  <img src="assets/peta_sebaran.png" width="300"/>
+  <img src="assets/peta_sebaran.png" width="800"/>
 </p>
 
 ## 📂 Folder Structure <br>
