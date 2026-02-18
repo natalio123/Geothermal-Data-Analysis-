@@ -66,6 +66,11 @@ This project compared several algorithms, where XGBoost was selected as the best
 | F1-Score | 0.9697 | 0.9797 |
 | Kappa Score | 0.9545 | 0.9696 |
 
+## 🗺️ Output : Peta Potensi Kawasan
+<p align="center">
+  <img src="assets/peta_sebaran.png" width="300"/>
+</p>
+
 ## 📂 Folder Structure <br>
 📦 Geothermal-Data-Analysis- <br>
  ┣ 📂 notebooks/ (EDA, Data Cleaning, & Modeling) <br>
